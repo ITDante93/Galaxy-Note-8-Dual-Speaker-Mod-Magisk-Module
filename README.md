@@ -1,11 +1,11 @@
-# Magisk Module Template
+# Galaxy Note 8 Dual Speaker Mod Magisk Module
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+Systemless Way of Enabling DualSpeaker/PseudoStereo SoundMod for Samsung Note 8...
+For more information vidit the xda-thread (https://forum.xda-developers.com/galaxy-note-8/themes/note-8-soundmod-magisk-module-t3677719)
 
-### README.md
+### Changelog:
 
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
+V1. Initial Release, Magisk Module has issues, still being tested for bugs and issues...
+V2. Everything is Fixed, Tested and It's Safe to use... The module has Gain without a single noise/disruption in the speaker...
 
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+**Module Status: Stable**
