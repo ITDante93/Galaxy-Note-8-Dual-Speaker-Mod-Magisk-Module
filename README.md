@@ -9,5 +9,4 @@ V1. Initial Release, Magisk Module has issues, still being tested for bugs and i
 
 V2. Everything is Fixed, Tested and It's Safe to use... The module has Gain without a single noise/disruption in the speaker...
 
-**Module Status:**
-### Stable
+### Module Status : _Stable_
